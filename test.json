@@ -1,0 +1,46 @@
+{
+    "Gamemode": "CTF",
+    "Map": "2fort",
+    "ЗаметкаОтРазраба": "Истинные красные вниз, синие вверх",
+    "Players": {
+        "1": {
+            "Name": "suharkazurin",
+            "Team": "RED",
+            "Chara": "Scout",
+            "Health": 125,
+            "PosX": 178.65210917070334,
+            "PosY": 1644.7391722402551,
+            "FirstAmmo": 6,
+            "SecondAmmo": 32,
+            "Weapon": "Force-a-Nature",
+            "Died": false,
+            "DiedCooldown": 0
+        }
+    },
+    "Bots": {}
+    "Objects": {
+        "HealthKits":
+            "RED_1": {
+                "PosX": 0,
+                "PosY": 0,
+                "Taken": false
+            }
+        },
+        "AmmoCases": {},
+        "BLU_CTF": {
+            "PosX": -400,
+            "PosY": 5035,
+            "CatchBy": 0,
+            "InBase": true
+        },
+        "RED_CTF": {
+            "PosX": 670,
+            "PosY": -60,
+            "CatchBy": 0,
+            "InBase": true
+        }
+    },
+    "Preparing": true,
+    "BattleTimer": 1770496187,
+    "BattleEnd": false
+}
