@@ -8,8 +8,8 @@
             "Team": "RED",
             "Chara": "Scout",
             "Health": 125,
-            "PosX": 178.65210917070334,
-            "PosY": 1644.7391722402551,
+            "PosX": -121.95991447071145,
+            "PosY": 3649.9016768867054,
             "FirstAmmo": 6,
             "SecondAmmo": 32,
             "Weapon": "Force-a-Nature",
@@ -17,16 +17,16 @@
             "DiedCooldown": 0
         }
     },
-    "Bots": {}
+    "Bots": [],
     "Objects": {
-        "HealthKits":
+        "HealthKits": {
             "RED_1": {
                 "PosX": 0,
                 "PosY": 0,
                 "Taken": false
             }
         },
-        "AmmoCases": {},
+        "AmmoCases": [],
         "BLU_CTF": {
             "PosX": -400,
             "PosY": 5035,
